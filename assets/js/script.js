@@ -1,7 +1,7 @@
 const tempartList = [
-            ["A20", "A22 4G", "A30", "A30s", "A31", "A32 4G", "A50", "A50s", "M21", "M30", "M30s", "M31", "A33", "5G"],
-            ["Samsung A12", "Oppo A1"],
-            ["iPhone 12", "iPhone 13"],
+            ["A21s", "A71", "A72", "A73", "M51", "M52", "A80", "A90", "A96", "Note 10 Lite", "Realme 9i", "Realme C17", "Y7A", "Y9A", "Honer 9X Lite", "P smart", "Mi 10T", "Mi 10T Pro", "Mi Note 9s", "Mi Note 9 Pro", "Mi Note 10 Pro", "Mi Note 11 Pro", "Mi 11T", "Mi 11T Pro", "Poco X3", "Poco X3Pro", "Poco X2", "Poco M2 Pro", "Poco F2 Pro", "Poco F3", "X3 GT",  "X655", "X652", "X675", "Techno Spark Pro", "Techno X662", "Techno Hot 11", "Techno KD7", "Nokia X10", "Nokia X20"],
+            ["Mi Note 8 Pro", "Mi 9", "Mi 9T", "Poco M3", "F11"],
+            ["A53", "A55", "A54"],
         ];
 
         const searchInput = document.getElementById('searchInput');
